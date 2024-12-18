@@ -68,7 +68,7 @@ Load the CSV data into a Jupyter notebook for analysis and visualization. The vi
 
 **Deployment**
 
-Link to the deployed version of the application.
+[Link to the deployed version of the application](http://51.20.109.173:8080/)
 
 Setup and Installation
 Clone the Repository:
